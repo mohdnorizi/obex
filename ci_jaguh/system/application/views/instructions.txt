@@ -1,0 +1,13 @@
+Pure CSS3 Forms, no images used! Easy to change colors and integrate into other layouts. Can be used as modal forms too.
+
+To integrate into other layouts you just need to copy - paste.
+If you want to change the width of the forms, you have to change the width in following classes of CSS:
+-form1
+-input
+-inputcontent
+-inputcontent input
+
+To change the colors of the form, I would suggest you to change the formtitle class background, and orangebutton class. It's really simple,
+just edit background for old browsers, and background gradient for newer browsers.
+
+Designed by: Hostclipse design team.
