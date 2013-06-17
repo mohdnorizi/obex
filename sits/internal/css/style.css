@@ -1,0 +1,60 @@
+table.hovertable {
+	font-family: verdana,arial,sans-serif;
+	font-size:11px;
+	color:#333333;
+	border-width: 1px;
+	border-color: #00416a;
+	border-collapse: collapse;
+}
+table.hovertable th {
+	font-family: verdana,arial,sans-serif;
+	font-size:11px;
+	background-color:#3598d6;
+	border-width: 1px;
+	padding: 3px;
+	border-style: solid;
+	border-color: #00416a;
+}
+table.hovertable tr {
+	background-color:#d4e3e5;
+}
+table.hovertable td {
+	border-width: 1px;
+	padding: 3px;
+	border-style: solid;
+	border-color: #00416a;
+}
+/*Sub Menu Start*/
+.menu_div ul
+{
+    padding:0px 0 0 10px;
+    margin:0px;
+    list-style:none;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:11px;
+    height:10px;
+    line-height:80px;
+    background:#051954;
+	width:200px;
+}
+.menu_div ul li
+{
+    float:left;
+}
+.menu_div ul li a
+{
+    color:#fff;
+    text-decoration:none;
+    padding: 1px 7px 1px 7px;
+}
+.menu_div ul li a:hover
+{
+    color:#000;
+    background:#fff;
+}
+.menu_div ul li#active a
+{
+    color:#000;
+    background:#fff;
+}
+/*Sub Menu End*/
